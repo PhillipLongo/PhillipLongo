@@ -19,7 +19,7 @@ Core engines reside within a secure, **private repository** (`torsional-action-s
 
 * **Request Credentials:** Coordinate via my [ORCID Researcher Registry Profile (0009-0004-3537-6478)](https://orcid.org/0009-0004-3537-6478).
 
-* ## Citation
+* ## Primary Thesis
 
 If you utilize this mathematical framework, numerical architectures, or simulation datasets in your research, please cite the framework using the following repository record:
 
@@ -36,7 +36,7 @@ If you utilize this mathematical framework, numerical architectures, or simulati
 }
 ```
 
-## Citation
+## Technical Supplement
 
 If you utilize this mathematical framework, numerical architectures, or simulation datasets in your research, please cite the framework using the following repository record:
 
