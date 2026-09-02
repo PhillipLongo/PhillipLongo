@@ -1,4 +1,4 @@
-Welcome to the 6D Torsional Action Principle Project Hub
+# Welcome to the 6D Torsional Action Principle Project Hub
 
 * **Primary Thesis:** [Zenodo Record | DOI: 10.5281/zenodo.22234910](https://zenodo.org)
 * **Technical Supplement:** [Zenodo Dataset | DOI: 10.5281/zenodo.22235070](https://zenodo.org)
