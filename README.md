@@ -13,7 +13,7 @@ Rather than treating this purely as a paper-bound hypothesis, the architecture i
 ### 📐 Core Mechanics of the Architecture:
 * **Double-Loop Covering Domain:** Restricting the internal cyclic integration boundaries to a topologically invariant $4\pi$ domain yields a unified geometric representation of macro-bosonic and micro-fermionic field transformations.
 * **Chameleon Screening Layer:** Regulated inside the integration kernel by weights coupled directly to a real scalar field $\Phi(x^\alpha)$, effectively suppressing macroscopic vacuum anisotropies below local $10^{-17}$ experimental thresholds inside high-density planetary interiors. 
-* **Early Dark Energy Sound Horizon Compression:** In low-density spatial regimes, the chameleon screening drops, allowing the effective dark energy fraction to peak at $f_{EDE}(z_c) = 0.0712$ around $z_c \approx 3500$. This induces a precise $10.73\%$ compression of the comoving sound horizon $r_s^*$, yielding a fully reconciled local Hubble constant parameter of **73.04 km/s/Mpc**.
+* **Early Dark Energy Sound Horizon Compression:** In low-density spatial regimes, the chameleon screening drops, allowing the effective dark energy fraction to peak at $f_{EDE}(z_c) = 0.0712$ around $z_c \approx 3500$. This induces a precise 10.73% compression of the comoving sound horizon $r_s^*$, yielding a fully reconciled local Hubble constant parameter of **73.04 km/s/Mpc**.
 * **Quantum Circuit Benchmarks:** The mathematical validation suite features telemetry tracking 32 virtual qubits across an 84-depth custom gate transform via IBM Qiskit, evaluating room-temperature vacuum coherence protection profiles.
 
 ---
