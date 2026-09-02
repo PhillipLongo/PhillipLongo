@@ -32,7 +32,7 @@ If you utilize this mathematical framework, numerical architectures, or simulati
   publisher    = {Zenodo},
   version      = {v5.0},
   doi          = {10.5281/zenodo.22234910},
-  url          = {https://doi.org](https://zenodo.org/records/22234910}
+  url          = {https://zenodo.org/records/22234910}
 }
 ```
 
@@ -49,5 +49,5 @@ If you utilize this mathematical framework, numerical architectures, or simulati
   publisher    = {Zenodo},
   version      = {v5.0},
   doi          = {10.5281/zenodo.22234910},
-  url          = {https://doi.org](https://zenodo.org/records/22235070}
+  url          = {https://zenodo.org/records/22235070}
 }
