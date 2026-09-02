@@ -31,3 +31,45 @@ The platform evaluates physical deviations across four core modules:
 Core engines reside within a secure, **private repository** (`torsional-action-source-code`). For audit access:
 
 * **Request Credentials:** Coordinate via my [ORCID Researcher Registry Profile (0009-0004-3537-6478)](https://orcid.org/0009-0004-3537-6478).
+
+* ## Citation
+
+If you utilize this mathematical framework, numerical architectures, or simulation datasets in your research, please cite the framework using the following repository record:
+
+```bibtex
+@misc{longo2026_6dtorsional,
+  author       = {Longo, Phillip A.},
+  title        = {A Six-Dimensional Torsional Action Principle Architecture addressing the Cosmological Hubble Tension},
+  month        = sep,
+  year         = 2026,
+  publisher    = {Zenodo},
+  version      = {v5.0},
+  doi          = {10.5281/zenodo.22234910},
+  url          = {https://doi.org}
+}
+```
+
+## Citation
+
+If you utilize this mathematical framework, numerical architectures, or simulation datasets in your research, please cite the framework using the following repository record:
+
+```bibtex
+@misc{longo2026_6dtorsional,
+  author       = {Longo, Phillip A.},
+  title        = {A Six-Dimensional Torsional Action Principle Architecture addressing the Cosmological Hubble Tension},
+  month        = sep,
+  year         = 2026,
+  publisher    = {Zenodo},
+  version      = {v5.0},
+  doi          = {10.5281/zenodo.22234910},
+  url          = {https://doi.org}
+}
+```
+
+***
+
+### 🛠️ The Next Step on GitHub
+Once those are pasted into the document, click the **gear icon next to "About"** on the right side of the main repository page and manually type in those exact topic tags (`hubble-tension`, `cosmology`, `quantum-simulation`, `astrophysics`, `qiskit`) to push it live to the global search feed.
+
+If you are drafting the presentation post for the **Wolfram Institute Discord server**, would you like to review a quick summary that highlights how the code models the 4$\pi$-periodic topology specifically for their community layout?
+
