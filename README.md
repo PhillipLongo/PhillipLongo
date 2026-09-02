@@ -45,7 +45,7 @@ If you utilize this mathematical framework, numerical architectures, or simulati
   publisher    = {Zenodo},
   version      = {v5.0},
   doi          = {10.5281/zenodo.22234910},
-  url          = {https://doi.org}
+  url          = {[https://doi.org](https://zenodo.org/records/22234910)}
 }
 ```
 
@@ -56,13 +56,13 @@ If you utilize this mathematical framework, numerical architectures, or simulati
 ```bibtex
 @misc{longo2026_6dtorsional,
   author       = {Longo, Phillip A.},
-  title        = {A Six-Dimensional Torsional Action Principle and its Explicit Resolution of the Cosmological Hubble Tension},
+  title        = {Technical Supplement & Parameter Index: Multi-Scale Chameleon Scalar Fields and Anisotropic Speed of Light Profiles},
   month        = sep,
   year         = 2026,
   publisher    = {Zenodo},
   version      = {v5.0},
   doi          = {10.5281/zenodo.22234910},
-  url          = {https://doi.org}
+  url          = {[https://doi.org](https://zenodo.org/records/22235070)}
 }
 
 
