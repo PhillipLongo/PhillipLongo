@@ -16,7 +16,7 @@ The full repository source code will be transitioned to open-source public acces
 
 This portal serves as the unified interface for the entire underlying architecture. The interactive application is comprised of all 26 independent Python simulation modules, allowing users to verify multi-scale metrics, parameter boundaries, and real-time localized data streams before reviewing the full codebase.
 
-* **Interactive Live Dashboard:** [Launch Simulation Dashboard App](https://github.io)
+* **Interactive Live Dashboard:** [Launch Simulation Dashboard App](https://philliplongo.github.io/torsional-action-hubble-tension/)
     * *Explore real-time multi-scale calculations and metric projections.*
 
 ---
