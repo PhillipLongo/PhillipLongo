@@ -54,12 +54,11 @@ If you utilize this mathematical framework, numerical architectures, or simulati
   month        = sep,
   year         = 2026,
   publisher    = {Zenodo},
-  version      = {v2.0},
+  version      = {v5.0},
   doi          = {10.5281/zenodo.22234910},
   url          = {https://zenodo.org/records/22234910}
 }
 ```
-
 ## Technical Supplement
 
 If you utilize this mathematical framework, numerical architectures, or simulation datasets in your research, please cite the framework using the following repository record:
@@ -71,7 +70,7 @@ If you utilize this mathematical framework, numerical architectures, or simulati
   month        = sep,
   year         = 2026,
   publisher    = {Zenodo},
-  version      = {v5.0},
+  version      = {v2.0},
   doi          = {10.5281/zenodo.22235070},
   url          = {https://zenodo.org/records/22235070}
 }
