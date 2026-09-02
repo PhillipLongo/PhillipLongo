@@ -12,7 +12,9 @@ To preserve structural priority and protect the underlying intellectual property
 
 The full repository source code will be transitioned to open-source public access immediately upon the completion of institutional journal peer review. Independent researchers requiring interim audit credentials can coordinate access verification directly via my ORCID profile.
 
-### 🌐 Computational Ecosystem Portals
+## 🌐 Computational Ecosystem Portals
+
+This portal serves as the unified interface for the entire underlying architecture. The interactive application is comprised of all 26 independent Python simulation modules, allowing users to verify multi-scale metrics, parameter boundaries, and real-time localized data streams before reviewing the full codebase.
 
 * **Interactive Live Dashboard:** [Launch Simulation Dashboard App](https://github.io)
     * *Explore real-time multi-scale calculations and metric projections.*
