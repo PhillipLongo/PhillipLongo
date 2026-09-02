@@ -16,16 +16,6 @@ This profile serves as the centralized access gateway for the mathematical frame
 
 ---
 
-### 🎛️ Architecture Component Index
-
-The platform evaluates physical deviations across four core modules:
-* **Module 1:** Cosmological Engines & Space-Time Diagnostics ($H_0 \simeq 73.2 \text{ km/s/Mpc}$).
-* **Module 2:** Terrestrial & Precision Laboratory Benchmarks ($T_{\text{base}} = 20\text{ mK}$).
-* **Module 3:** Core Geometric Manifold & Phase Tracking ($4\pi$-Periodic Spin-Orbit Topology).
-* **Module 4:** Quantum Simulators & Vacuum Boundary Fields ($78.97\%$ stability array).
-
----
-
 ### 🔒 Core Algorithmic Source Code Access
 
 Core engines reside within a secure, **private repository** (`torsional-action-source-code`). For audit access:
