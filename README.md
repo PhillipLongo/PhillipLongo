@@ -6,6 +6,12 @@
 
 This profile serves as the centralized access gateway for the mathematical frameworks and numerical architectures addressing the cosmological Hubble Tension.
 
+## 🔒 Source Code Status Notice
+
+To preserve structural priority and protect the underlying intellectual property prior to formal publication, the core algorithmic simulation engines currently reside within a secure, private repository (`torsional-action-source-code`). The underlying files have been cryptographically notarized using SHA-256 digital fingerprints permanently burned into the public immutable ledger network via OpenTimestamps. 
+
+The full repository source code will be transitioned to open-source public access immediately upon the completion of institutional journal peer review. Independent researchers requiring interim audit credentials can coordinate access verification directly via my ORCID profile.
+
 ### 🌐 Computational Ecosystem Portals
 
 * **Interactive Live Dashboard:** [Launch Simulation Dashboard App](https://github.io)
