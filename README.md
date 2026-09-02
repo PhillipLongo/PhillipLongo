@@ -30,7 +30,7 @@ If you utilize this mathematical framework, numerical architectures, or simulati
   month        = sep,
   year         = 2026,
   publisher    = {Zenodo},
-  version      = {v5.0},
+  version      = {v2.0},
   doi          = {10.5281/zenodo.22234910},
   url          = {https://zenodo.org/records/22234910}
 }
@@ -48,6 +48,6 @@ If you utilize this mathematical framework, numerical architectures, or simulati
   year         = 2026,
   publisher    = {Zenodo},
   version      = {v5.0},
-  doi          = {10.5281/zenodo.22234910},
+  doi          = {10.5281/zenodo.22235070},
   url          = {https://zenodo.org/records/22235070}
 }
