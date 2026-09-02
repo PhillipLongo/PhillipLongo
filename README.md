@@ -1,7 +1,7 @@
 # Welcome to the 6D Torsional Action Principle Project Hub
 
-* **Primary Thesis:** [Zenodo Record | DOI: 10.5281/zenodo.22234910](https://zenodo.org)
-* **Technical Supplement:** [Zenodo Dataset | DOI: 10.5281/zenodo.22235070](https://zenodo.org)
+* **Primary Thesis:** [Zenodo Record | DOI: 10.5281/zenodo.22234910](https://zenodo.org/records/22234910)
+* **Technical Supplement:** [Zenodo Dataset | DOI: 10.5281/zenodo.22235070](https://zenodo.org/records/22235070)
 * **Researcher Registry:** [Official ORCID iD Profile | 0009-0004-3537-6478](https://orcid.org/0009-0004-3537-6478)
 
 
