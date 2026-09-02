@@ -56,7 +56,7 @@ If you utilize this mathematical framework, numerical architectures, or simulati
 ```bibtex
 @misc{longo2026_6dtorsional,
   author       = {Longo, Phillip A.},
-  title        = {A Six-Dimensional Torsional Action Principle Architecture addressing the Cosmological Hubble Tension},
+  title        = {A Six-Dimensional Torsional Action Principle and its Explicit Resolution of the Cosmological Hubble Tension},
   month        = sep,
   year         = 2026,
   publisher    = {Zenodo},
@@ -64,7 +64,7 @@ If you utilize this mathematical framework, numerical architectures, or simulati
   doi          = {10.5281/zenodo.22234910},
   url          = {https://doi.org}
 }
-```
+
 
 ***
 
