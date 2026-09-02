@@ -1,8 +1,7 @@
-# Welcome to the 6D Torsional Action Principle Project Hub
+* **Primary Thesis:** [Zenodo Record | DOI: 10.5281/zenodo.22234910](https://zenodo.org)
+* **Technical Supplement:** [Zenodo Dataset | DOI: 10.5281/zenodo.22235070](https://zenodo.org)
+* **Researcher Registry:** [Official ORCID iD Profile | 0009-0004-3537-6478](https://orcid.org/0009-0004-3537-6478)
 
-[![Zenodo DOI](https://shields.io)]([https://zenodo.org](https://zenodo.org/records/22234910)
-[![Zenodo Supplement](https://shields.io)](https://zenodo.org/records/22235070)
-[![ORCID iD](https://shields.io)](https://orcid.org/0009-0004-3537-6478)
 
 This profile serves as the centralized access gateway for the mathematical frameworks and numerical architectures addressing the cosmological Hubble Tension.
 
