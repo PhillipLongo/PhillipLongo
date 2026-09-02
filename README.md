@@ -4,7 +4,7 @@ This profile serves as the centralized access gateway for the mathematical frame
 
 ### 🌐 Computational Ecosystem Portals
 
-* **Interactive Live Dashboard:** [Launch Simulation Dashboard App](https://github.io)
+* **Interactive Live Dashboard:** [Launch Simulation Dashboard App]([https://github.io](https://philliplongo.github.io/torsional-action-hubble-tension/))
   * *Explore real-time multi-scale calculations and metric projections.*
 * **Academic Citations Reference:** [View Repository Metadata & Assets](https://github.com)
   * *Access the public codebase and citation metadata.*
