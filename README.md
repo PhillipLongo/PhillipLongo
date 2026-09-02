@@ -4,9 +4,9 @@ This profile serves as the centralized access gateway for the mathematical frame
 
 ### 🌐 Computational Ecosystem Portals
 
-* **Interactive Live Dashboard:** [[Launch Simulation Dashboard App](https://github.io)](https://philliplongo.github.io/torsional-action-hubble-tension/)
+* **Interactive Live Dashboard:** [Launch Simulation Dashboard App](https://philliplongo.github.io/torsional-action-hubble-tension/)
   * *Explore real-time multi-scale calculations and metric projections.*
-* **Academic Citations Reference:** [[View Repository Metadata & Assets](https://github.com)](https://github.com/PhillipLongo/torsional-action-hubble-tension)
+* **Academic Citations Reference:** [View Repository Metadata & Assets](https://github.com)
   * *Access the public codebase and citation metadata.*
 
 ---
@@ -25,4 +25,4 @@ The platform evaluates physical deviations across four core modules:
 
 Core engines reside within a secure, **private repository** (`torsional-action-source-code`). For audit access:
 
-* **Request Credentials:** Coordinate via my [[ORCID Researcher Registry Profile (0009-0004-3537-6478)](https://orcid.org)](https:// orcid .org /0009-0004-3537-6478).
+* **Request Credentials:** Coordinate via my [ORCID Researcher Registry Profile (0009-0004-3537-6478)](https://orcid.org/0009-0004-3537-6478).
