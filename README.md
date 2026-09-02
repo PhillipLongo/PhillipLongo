@@ -14,8 +14,8 @@ To preserve structural priority and protect the underlying intellectual property
 The full repository source code will be transitioned to open-source public access immediately upon the completion of institutional journal peer review.
 
 ### 2. Audit Vetting Credentials
-For audit and immediate validation access prior to public release:
-* **Request Credentials:** Coordinate via my [ORCID Researcher Registry Profile (0009-0004-3537-6478)](https://orcid.org/0009-0004-3537-6478).
+For immediate validation access or to request an active researcher exception:
+* **Request Credentials:** Coordinate secure access verification and field credential validation directly via my [ORCID Researcher Registry Profile (0009-0004-3537-6478)](https://orcid.org/0009-0004-3537-6478).
 
 ## 🌐 Computational Ecosystem Portals
 
