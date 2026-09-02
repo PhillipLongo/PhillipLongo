@@ -6,11 +6,16 @@
 
 This profile serves as the centralized access gateway for the mathematical frameworks and numerical architectures addressing the cosmological Hubble Tension.
 
-## 🔒 Source Code Status Notice
+## 🔒 Core Algorithmic Source Code Strategy & Access Protocol
 
-To preserve structural priority and protect the underlying intellectual property prior to formal publication, the core algorithmic simulation engines currently reside within a secure, private repository (`torsional-action-source-code`). The underlying files have been cryptographically notarized using SHA-256 digital fingerprints permanently burned into the public immutable ledger network via OpenTimestamps. 
+### 1. Source Code Status Notice
+To preserve structural priority and protect the underlying intellectual property prior to formal publication, the core algorithmic simulation engines currently reside within a secure, private repository (`torsional-action-source-code`). The underlying files have been cryptographically notarized using SHA-256 digital fingerprints permanently burned into the public immutable ledger network via OpenTimestamps.
 
-The full repository source code will be transitioned to open-source public access immediately upon the completion of institutional journal peer review. Independent researchers requiring interim audit credentials can coordinate access verification directly via my ORCID profile.
+The full repository source code will be transitioned to open-source public access immediately upon the completion of institutional journal peer review.
+
+### 2. Audit Vetting Credentials
+For audit and immediate validation access prior to public release:
+* **Request Credentials:** Coordinate via my [ORCID Researcher Registry Profile (0009-0004-3537-6478)](https://orcid.org/0009-0004-3537-6478).
 
 ## 🌐 Computational Ecosystem Portals
 
@@ -18,14 +23,7 @@ This portal serves as the unified interface for the entire underlying architectu
 
 * **Interactive Live Dashboard:** [Launch Simulation Dashboard App](https://philliplongo.github.io/torsional-action-hubble-tension/)
     * *Explore real-time multi-scale calculations and metric projections.*
-
 ---
-
-### 🔒 Core Algorithmic Source Code Access
-
-Core engines reside within a secure, **private repository** (`torsional-action-source-code`). For audit access:
-
-* **Request Credentials:** Coordinate via my [ORCID Researcher Registry Profile (0009-0004-3537-6478)](https://orcid.org/0009-0004-3537-6478).
 
 * ## Primary Thesis
 
