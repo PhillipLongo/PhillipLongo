@@ -1,6 +1,6 @@
 # Phillip A. Longo
 ### Theoretical Physics, Cosmology & Computational Modeling
-Representing unified geometric frameworks and numerical solutions for macroeconomic cosmic anomalies.
+Representing unified geometric frameworks and numerical solutions for macro-cosmic anomalies.
 
 # Welcome to the 6D Torsional Action Principle Project Hub
 ---
