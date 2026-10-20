@@ -70,7 +70,7 @@ If you utilize this mathematical framework, numerical architectures, or simulati
   month        = sep,
   year         = 2026,
   publisher    = {Zenodo},
-  version      = {v3.0},
+  version      = {v4.0},
   doi          = {10.5281/zenodo.23508912},
   url          = {https://zenodo.org/records/23508912}
 }
