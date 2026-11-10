@@ -5,15 +5,16 @@
 ## Welcome to the 6D Torsional Action Principle Project Hub
 
 ### 🌌 Current Research Focus: The 6D Torsional Action Principle
-I have developed an independent physics framework that explicitly tackles the cosmological Hubble Tension anomaly using an extended 6D manifold architecture: \(\mathcal{M}^6 \simeq \mathcal{M}^4 \times (\mathbb{R}^+ \times \mathcal{S}^1)\).
+I have developed an independent physics framework that explicitly tackles the cosmological Hubble Tension anomaly using an extended 6D manifold architecture: $\mathcal{M}^6 \simeq \mathcal{M}^4 \times (\mathbb{R}^+ \times \mathcal{S}^1)$.
 
 Rather than treating this purely as a paper-bound hypothesis, the architecture is backed by an interactive verification engine mapping multi-scale field calculations live on the web.
 
 ### 📐 Core Mechanics of the Architecture:
-* **Double-Loop Covering Domain:** Restricting the internal cyclic integration boundaries to a topologically invariant \(4\pi\) domain yields a unified geometric representation of macro-bosonic and micro-fermionic field transformations.
-* **Chameleon Screening Layer:** Regulated inside the integration kernel by weights coupled directly to a real scalar field \(\Phi(x^\mu)\), effectively suppressing macroscopic vacuum anisotropies below local \(10^{-17}\) experimental thresholds inside high-density planetary interiors.
-* **Early Dark Energy Sound Horizon Compression:** In low-density spatial regimes, the chameleon screening drops, allowing the effective dark energy fraction to peak at \(f_{\text{EDE}} = 0.0589\) around \(z_c \approx 3500\). This induces a precise \(9.9497\%\) compression of the comoving sound horizon \(r_s^*\), stepping the baseline early expansion constant to \(67.95\text{ km/s/Mpc}\) and yielding a fully reconciled local Hubble constant parameter of \(74.39\text{ km/s/Mpc}\) via late-time torsional metric translation.
+* **Double-Loop Covering Domain:** Restricting the internal cyclic integration boundaries to a topologically invariant $4\pi$ domain yields a unified geometric representation of macro-bosonic and micro-fermionic field transformations.
+* **Chameleon Screening Layer:** Regulated inside the integration kernel by weights coupled directly to a real scalar field $\Phi(x^\mu)$, effectively suppressing macroscopic vacuum anisotropies below local $10^{-17}$ experimental thresholds inside high-density planetary interiors.
+* **Early Dark Energy Sound Horizon Compression:** In low-density spatial regimes, the chameleon screening drops, allowing the effective dark energy fraction to peak at $f_{\text{EDE}} = 0.0589$ around $z_c \approx 3500$. This induces a precise $9.9497\%$ compression of the comoving sound horizon $r_s^*$, stepping the baseline early expansion constant to $67.95\text{ km/s/Mpc}$ and yielding a fully reconciled local Hubble constant parameter of $74.39\text{ km/s/Mpc}$ via late-time torsional metric translation.
 * **Quantum Circuit Benchmarks:** The mathematical validation suite features telemetry tracking 32 virtual qubits across an 84-depth custom gate transform via IBM Qiskit, evaluating room-temperature vacuum coherence protection profiles.
+
 
 ### 🌐 Project Gateways & Registries
 * **Interactive Live Dashboard:** [Launch Simulation Dashboard App](#)
