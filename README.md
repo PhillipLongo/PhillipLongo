@@ -6,7 +6,7 @@ Representing unified geometric frameworks and numerical solutions for macro-cosm
 ---
 ## 🌌 Current Research Focus: The 6D Torsional Action Principle
 
-I have developed an independent physics framework that explicitly tackles the cosmological **Hubble Tension** anomaly using an extended 6D manifold architecture: $M^6 \simeq M^4 \times (\mathbb{R}^3 \times S^1)$. 
+I have developed an independent physics framework that explicitly tackles the cosmological **Hubble Tension** anomaly using an extended 6D manifold architecture: $M^6 \simeq M^4 \times (\mathbb{R}^+ \times S^1)$. 
 
 Rather than treating this purely as a paper-bound hypothesis, the architecture is backed by an interactive, 26-module verification engine mapping multi-scale field calculations live on the web.
 
