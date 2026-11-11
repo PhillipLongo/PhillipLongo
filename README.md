@@ -17,7 +17,7 @@ Rather than treating this purely as a paper-bound hypothesis, the architecture i
 
 
 ### 🌐 Project Gateways & Registries
-* **Interactive Live Dashboard:** [Launch Simulation Dashboard App](#)
+* **Interactive Live Dashboard UNDER CONSTRUCTION:** [Launch Simulation Dashboard App](https://philliplongo.github.io/torsional-action-hubble-tension/)
   * *Explore real-time multi-scale calculations and metric projections.*
 * **Primary Thesis:** [Zenodo Record | DOI: 10.5281/zenodo.22234910](https://zenodo.org/records/22234910))
 * **Technical Supplement:** [Zenodo Dataset | DOI: 10.5281/zenodo.24122086](https://zenodo.org/records/24122086)
