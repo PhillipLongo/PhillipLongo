@@ -19,9 +19,9 @@ Rather than treating this purely as a paper-bound hypothesis, the architecture i
 ### 🌐 Project Gateways & Registries
 * **Interactive Live Dashboard:** [Launch Simulation Dashboard App](#)
   * *Explore real-time multi-scale calculations and metric projections.*
-* **Primary Thesis:** [Zenodo Record | DOI: 10.5281/zenodo.22234910](https://zenodo.org)
-* **Technical Supplement:** [Zenodo Dataset | DOI: 10.5281/zenodo.23508912](https://zenodo.org)
-* **Researcher Registry:** [Official ORCID iD Profile | 0009-0004-3537-6478](https://orcid.org)
+* **Primary Thesis:** [Zenodo Record | DOI: 10.5281/zenodo.22234910](https://zenodo.org/records/22234910))
+* **Technical Supplement:** [Zenodo Dataset | DOI: 10.5281/zenodo.23508912](https://zenodo.org/records/24122086)
+* **Researcher Registry:** [Official ORCID iD Profile | 0009-0004-3537-6478](https://orcid.org/0009-0004-3537-6478)
 
 This profile serves as the centralized access gateway for the mathematical frameworks and numerical architectures addressing the cosmological Hubble Tension.
 
